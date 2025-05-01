@@ -1,0 +1,26 @@
+# Data Split Configuration
+
+# Split proportions
+split_ratios:
+  test_size: 0.2
+  validation_size: 0.2
+
+# Random seed for reproducibility
+random_state: 42
+
+# Whether to use stratified splitting
+stratify: true
+
+# Class balancing options
+balance_method: none  # Options: none, undersample, oversample
+
+# Output settings
+output:
+  save_format: csv
+  include_index: false
+  compression: none
+
+# Logging settings
+logging:
+  level: INFO
+  file: split_log.txt 

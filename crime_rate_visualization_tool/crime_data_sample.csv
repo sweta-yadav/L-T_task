@@ -1,0 +1,13 @@
+Year,City,Crime_Type,Incidents
+2018,Metropolis,Burglary,120
+2018,Metropolis,Assault,80
+2018,Gotham,Burglary,150
+2018,Gotham,Assault,95
+2019,Metropolis,Burglary,110
+2019,Metropolis,Assault,85
+2019,Gotham,Burglary,140
+2019,Gotham,Assault,100
+2020,Metropolis,Burglary,100
+2020,Metropolis,Assault,90
+2020,Gotham,Burglary,130
+2020,Gotham,Assault,110 

@@ -1,0 +1,29 @@
+================================================================================
+SALES DATA CLEANING REPORT
+================================================================================
+
+Report generated on: 2025-04-25 16:13:24
+
+1. DATA SUMMARY
+   - Original rows: 14
+   - Cleaned rows: 11
+   - Columns: 14
+
+2. CLEANING ACTIONS
+   - Removed 3 duplicate records
+
+3. COLUMN STATISTICS AFTER CLEANING
+   - Order ID: 8 unique values
+   - Order Date: 8 unique values
+   - Ship Date: 8 unique values
+   - Ship Mode: 3 unique values
+   - Customer ID: 6 unique values
+   - Segment: 2 unique values
+   - Category: 3 unique values
+   - Sub-Category: 6 unique values
+   - Product ID: 7 unique values
+   - Product Name: 8 unique values
+   - Sales: Min=11.65, Max=5000.00, Mean=772.93, Median=261.96
+   - Quantity: Min=1.00, Max=49.91, Mean=6.63, Median=2.00
+   - Discount: Min=0.00, Max=0.45, Mean=0.15, Median=0.10
+   - Profit: Min=2.24, Max=500.61, Mean=88.23, Median=41.91

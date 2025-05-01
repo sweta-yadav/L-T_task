@@ -1,0 +1,12 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,Category,Sub-Category,Product ID,Product Name,Sales,Quantity,Discount,Profit
+CA-2016-152156,2016-11-08,2016-11-11,Second Class,CG-12520,Consumer,Furniture,Bookcases,FUR-BO-10001798,Bush Somerset Collection Bookcase,261.96,2.0,0.0,41.9136
+US-2015-108966,2015-10-11,2015-10-18,Standard Class,SO-20335,Corporate,Technology,Phones,TEC-PH-10002033,Apple Smart Phone Lightning Charging Cable,46.71,3.0,0.1,5.605
+CA-2014-115812,2014-06-09,2014-06-14,Standard Class,BH-11710,Consumer,Office Supplies,Storage,OFF-ST-10000760,Eldon Fold 'N Roll Cart System,22.37,2.0,0.2,2.237
+CA-2016-161389,2016-12-05,2016-12-09,Standard Class,BH-11710,Consumer,Technology,Phones,FUR-BO-10001798,Mobile Phone 128GB,599.99,1.0,0.0,100.0
+US-2015-108966,2015-10-11,2014-06-14,Standard Class,SO-20335,Corporate,Furniture,Tables,FUR-TA-10000577,Bretford CR4500 Series Slim Rectangular Table,957.5775,5.0,0.45,100.5856
+US-2014-118983,2014-11-02,2014-11-04,Same Day,IM-15070,Corporate,Office Supplies,Supplies,OFF-SU-10000036,Staples,15.98,2.0,0.0,6.392
+ES-2016-1723919,2016-01-16,2016-01-20,Standard Class,HP-14815,Consumer,Office Supplies,Paper,OFF-PA-10002365,HP Premium Recycled Paper,28.46,2.0,0.1,9.0144
+CA-2015-143336,2015-09-06,2015-09-11,Second Class,TB-21520,Consumer,Office Supplies,Supplies,FUR-BO-10001798,Staples in Assorted Colors,11.648,2.0,0.2,3.64
+US-2016-108966,2016-10-11,2016-10-18,Standard Class,SO-20335,Corporate,Technology,Phones,TEC-PH-10002033,Apple Smart Phone Lightning Charging Cable,5000.0,3.0,0.1,500.605
+CA-2016-161389,2016-12-05,2016-12-09,Standard Class,BH-11710,Consumer,Technology,Phones,TEC-PH-10002047,Mobile Phone 128GB,599.99,1.0,0.0,100.0
+US-2015-108966,2015-10-11,2015-10-18,Standard Class,SO-20335,Corporate,Furniture,Tables,FUR-TA-10000577,Bretford CR4500 Series Slim Rectangular Table,957.5775,49.90865164024562,0.45,100.5856

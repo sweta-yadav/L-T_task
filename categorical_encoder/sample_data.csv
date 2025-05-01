@@ -1,0 +1,11 @@
+product_id,category,color,size,price,in_stock
+1,Electronics,Black,Large,599.99,True
+2,Clothing,Blue,Medium,49.99,True
+3,Electronics,Silver,Small,299.99,False
+4,Home,Brown,Large,199.99,True
+5,Clothing,Red,Small,29.99,True
+6,Electronics,Black,Medium,399.99,False
+7,Home,White,Large,149.99,True
+8,Clothing,Green,Large,39.99,False
+9,Electronics,Silver,Small,449.99,True
+10,Home,Beige,Medium,179.99,True 

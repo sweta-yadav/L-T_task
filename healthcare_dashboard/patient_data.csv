@@ -1,0 +1,5 @@
+PatientID,Age,BloodPressure,Cholesterol,SymptomA,SymptomB,Outcome
+1,45,120,200,1,0,Positive
+2,50,130,210,0,1,Negative
+3,60,140,190,1,1,Positive
+4,35,110,180,0,0,Negative 

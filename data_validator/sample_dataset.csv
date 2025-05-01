@@ -1,0 +1,21 @@
+customer_id,age,income,education,occupation,loan_amount,credit_score,purchase_frequency
+1,35,75000,Bachelor,Software Engineer,25000,720,Medium
+2,42,,Manager,,50000,680,High
+3,28,invalid,High School,Sales,15000,650,Low
+4,55,120000,PhD,Professor,75000,800,Medium
+5,39,85000,Master,Data Scientist,40000,750,High
+6,31,,Retail,,20000,600,Low
+7,47,95000,Bachelor,Business Analyst,45000,700,Medium
+8,33,65000,High School,Technician,30000,670,Low
+9,51,150000,Master,Director,100000,820,High
+10,29,55000,Bachelor,Marketing,25000,630,Medium
+11,44,abc,PhD,Researcher,60000,780,High
+12,36,80000,Master,Engineer,35000,710,Medium
+13,49,110000,Bachelor,Manager,70000,760,High
+14,32,,High School,,18000,620,Low
+15,41,90000,Master,Consultant,55000,730,Medium
+16,38,70000,Bachelor,Sales Manager,40000,690,High
+17,45,130000,PhD,Director,85000,810,High
+18,34,60000,High School,Administrator,25000,640,Low
+19,52,140000,Master,Executive,95000,790,High
+20,30,invalid,Bachelor,Marketing,20000,660,Medium 

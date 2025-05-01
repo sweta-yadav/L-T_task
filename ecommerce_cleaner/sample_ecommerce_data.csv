@@ -1,0 +1,16 @@
+product_id,product_name,category,price,quantity,order_date,customer_id,shipping_method
+P001,Wireless Earbuds,Electronics,129.99,2,2024-04-01,C1001,Standard
+P002,Smart Watch,Electronics,199.99,1,2024-04-01,C1002,Express
+P003,Laptop Bag,Accessories,45.99,3,2024-04-02,C1003,Standard
+P004,USB-C Cable,Electronics,15.99,,2024-04-02,C1004,Standard
+P005,Power Bank,Electronics,49.99,2,2024-04-03,,Express
+P006,Laptop Stand,Accessories,29.99,1,2024-04-03,C1006,Standard
+P007,Wireless Mouse,Electronics,24.99,5,2024-04-04,C1007,
+P008,Keyboard,Electronics,89.99,1,2024-04-04,C1008,Standard
+P009,Monitor,Electronics,299.99,50,2024-04-05,C1009,Express
+P010,Headphones,Electronics,179.99,2,2024-04-05,C1010,Standard
+P011,Phone Case,Accessories,19.99,3,,C1011,Express
+P012,Screen Protector,Accessories,9.99,4,2024-04-06,C1012,Standard
+,Tablet Stand,Accessories,25.99,2,2024-04-07,C1013,Express
+P014,Wireless Charger,Electronics,35.99,1000,2024-04-07,C1014,Standard
+P015,USB Hub,Electronics,39.99,-1,2024-04-08,C1015,Express 

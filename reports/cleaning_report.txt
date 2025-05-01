@@ -1,0 +1,25 @@
+E-COMMERCE DATA CLEANING REPORT
+==================================================
+Report generated on: 2025-04-25 16:26:15
+
+Successfully loaded 15 records with 8 columns
+
+Missing values before cleaning:
+- product_id: 1 missing values
+- quantity: 1 missing values
+- order_date: 1 missing values
+- customer_id: 1 missing values
+- shipping_method: 1 missing values
+Filled missing values in quantity with median: 2.00
+Filled missing values in product_id with mode: P001
+Filled missing values in order_date with mode: 2024-04-01
+Filled missing values in customer_id with mode: C1001
+Filled missing values in shipping_method with mode: Standard
+
+Missing values after cleaning:
+
+Found 1 outliers in quantity
+- Capped values between -699.44 and 843.04
+- Plot saved as outliers_quantity.png
+
+Cleaned data saved to cleaned_ecommerce_data.csv
